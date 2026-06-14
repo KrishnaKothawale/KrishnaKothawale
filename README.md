@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”github-header-banner.png" alt=”my banner”>
+
+</p>
+
 # 💫 About Me:
 ⚙️ Data Engineer in the making | Building scalable data pipelines and cloud-based data solutions<br>☁️ Learning Azure, Databricks, and modern Lakehouse architectures one project at a time<br>📊 Transforming raw data into reliable datasets, actionable insights, and business value<br>🚀 Focused on Data Engineering, Analytics, and the future of AI-powered data platforms<br>🧠 SQL • Python • Azure • ETL/ELT • Data Warehousing<br>⚡ Fun fact: I enjoy finding patterns in data, debugging complex problems, and connecting ideas across different domains
 
