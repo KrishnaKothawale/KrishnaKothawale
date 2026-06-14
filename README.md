@@ -1,7 +1,5 @@
 <p align=”center”>
-
-<img width=”200" height=”200" src=”github-header-banner.png" alt=”my banner”>
-
+  <img src=”github-header-banner.png">
 </p>
 
 # 💫 About Me:
